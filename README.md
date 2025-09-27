@@ -3,14 +3,15 @@
 <div align="center">
   <svg width="100%" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
     <text x="-500" y="70" font-size="40" font-family="Arial, Helvetica, sans-serif" font-weight="800" text-anchor="middle" fill="#111">
-      👋 Hi, I'm Abdo Ibrahim
+      👋 Hi, I'm Abdelrahman Ibrahim
       <animate attributeName="x" from="-500" to="500" dur="1.5s" fill="freeze" />
     </text>
   </svg>
 </div>
 
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FrontEnd+Devloper+%7CReact.js" alt="Typing SVG" /></a>
-
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=FrontEnd+Devloper+%7CReact.js" alt="Typing SVG" /></a>
+</div>
 ---
 
 <h2 align="center">💡 About Me</h2>
