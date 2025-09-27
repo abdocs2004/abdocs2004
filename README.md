@@ -9,6 +9,8 @@
   </svg>
 </div>
 
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FrontEnd+Devloper+%7CReact.js" alt="Typing SVG" /></a>
+
 ---
 
 <h2 align="center">💡 About Me</h2>
@@ -54,4 +56,4 @@
     <img src="https://img.icons8.com/ios-filled/40/EA4335/gmail.png" alt="Email"/>
   </a>
 </p>
-```
+
