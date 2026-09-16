@@ -12,6 +12,12 @@
 <img src="https://img.shields.io/badge/Status-Final--Year%20CS%20Student%20(2027)-1f6feb?style=flat-square" alt="Status badge"/>
 <img src="https://img.shields.io/badge/Role-Full--Stack%20Web%20Developer-2ea44f?style=flat-square" alt="Role badge"/>
 
+<br/><br/>
+
+<a href="https://portfolio-bay-xi-28.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
 </div>
 
 ---
@@ -173,6 +179,12 @@ managing and deploying WordPress websites.
   </a>
   <a href="mailto:abdo.cs.2004@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://portfolio-bay-xi-28.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-262626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://mostaql.com/u/abdo_cs_2004" target="_blank">
+    <img src="https://img.shields.io/badge/Mostaql-0F9D8B?style=for-the-badge&logoColor=white" alt="Mostaql"/>
   </a>
 </p>
 
