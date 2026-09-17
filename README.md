@@ -143,6 +143,11 @@ Completed a Front-End track.
 **Orb Scope Academy**
 Completed a Backend Node.js track.
 
+**Freelancing Skills Scholarship
+ITIDA – MCIT
+
+Training on freelancing platforms, client communication and readiness.
+
 </p>
 
 ---
